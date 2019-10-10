@@ -1,6 +1,6 @@
-apt-get -f -y autoremove
-
 #!/bin/bash
+
+apt-get -f -y autoremove
 apt-get -y update
 
 # install Apache2
